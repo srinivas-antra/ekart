@@ -9,6 +9,7 @@ public class EkartApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EkartApplication.class, args);
 		System.out.println("In main class");
+		System.out.println("In spring boot class");
 	}
 
 }
