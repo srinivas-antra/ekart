@@ -10,6 +10,7 @@ public class EkartApplication {
 		SpringApplication.run(EkartApplication.class, args);
 		System.out.println("In main class");
 		System.out.println("In spring boot class");
+		System.out.println("New line");
 	}
 
 }
